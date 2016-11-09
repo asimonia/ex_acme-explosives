@@ -37,7 +37,6 @@ function getProducts() {
 function logData (data) {
 	console.log("data from XHR", data);
 
-	console.log("Array[0]", data[0].categories);
 	for (item in data[0].categories) {
 		$(".categories").append(`<li>${data[0].categories[item].name}</li>`);
 	}
@@ -83,5 +82,6 @@ function logData (data) {
 
 Promise.all([getCategories(), getTypes(), getProducts()])
 .then( (alltheStuff) => {
+	// send to populateData
 	logData(alltheStuff);
 });

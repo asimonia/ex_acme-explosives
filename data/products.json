@@ -1,29 +1,166 @@
 {
   "products": [{
     "fairy_sparklers": {
-        "id": 0,
-        "typeId": 0,
-        "name": "Fairy Sparklers",
-        "description": "Multi-colored sparklers that are safe for any age."
+      "id": 0,
+      "typeId": 0,
+      "name": "Fairy Sparklers",
+      "description": "Multi-colored sparklers that are safe for any age."
+    },
+    "party_poppers": {
+      "id": 1,
+      "typeId": 0,
+      "name": "Party Poppers",
+      "description": "Throw them on the ground and hear em go pop!"
     },
     "dy_no_mite": {
-      "id": 1,
-      "typeId": 3,
-      "name": "Dy-No-Mite!",
-      "description": "Sticks of boom. Necessary for any attempts to build a road or kill a road runner."
+      "id": 2,
+      "typeId": 0,
+      "name": "Boomstick",
+      "description": "Say HELLO to my little friend."
     },
     "oooh_maker": {
-      "id": 2,
+      "id": 3,
       "typeId": 1,
       "name": "The Oooh Maker",
       "description": "Sizzles, sparkles, and kapows its way into every patriotic heart"
     },
-    "charred_stump": {
-      "id": 3,
+    "booo_maker": {
+      "id": 4,
+      "typeId": 1,
+      "name": "The Booo Maker",
+      "description": "Don't be scerd!"
+    },
+    "dat_big_bang": {
+      "id": 5,
+      "typeId": 1,
+      "name": "The Big Bang",
+      "description": "The whole universe was in a hot dense state...We built a pyramid!"
+    },
+    "burn_baby_burn": {
+      "id": 6,
       "typeId": 2,
-      "name": "The Charred Stump",
-      "description": "Extremely short fuse and enough gunpowder to launch a cannonball"
+      "name": "Burn Baby Burn",
+      "description": "Feeling a bit patriotic with the 1976 disco funkadelic."
+    },
+    "mind_blown": {
+      "id": 7,
+      "typeId": 2,
+      "name": "The Mind Blower",
+      "description": "Prepare to have all your expectations shattered."
+    },
+    "shaq": {
+      "id": 8,
+      "typeId": 2,
+      "name": "Shaq Fu",
+      "description": "Ready for your face to get wiped out with a windmill kick to your face"
+    },
+    "driller": {
+      "id": 9,
+      "typeId": 3,
+      "name": "Get drilled",
+      "description": "If you need to get your home revamped, call us"
+    },
+    "biller": {
+      "id": 10,
+      "typeId": 3,
+      "name": "Get billed",
+      "description": "Open your mailbox and reach inside.  Surprise!"
+    },
+    "surprise": {
+      "id": 11,
+      "typeId": 3,
+      "name": "Surprise! Your dead",
+      "description": "Guess what.  It never ends!"
+    },
+    "building_a": {
+      "id": 12,
+      "typeId": 4,
+      "name": "Building 100A",
+      "description": "Blow up Floor A to smithereens"
+    },
+    "building_b": {
+      "id": 13,
+      "typeId": 4,
+      "name": "Building 100B",
+      "description": "Rock it off with your socks off, Floor B."
+    },
+    "building_c": {
+      "id": 14,
+      "typeId": 4,
+      "name": "Building 100C",
+      "description": "Kaboom, Kapow, Ka..say good bye to Floor C."
+    },
+    "blowup_a": {
+      "id": 15,
+      "typeId": 5,
+      "name": "Blow up San Andreas",
+      "description": "Make it San Andreas' fault again."
+    },
+    "blowup_b": {
+      "id": 16,
+      "typeId": 5,
+      "name": "Bill Clinton",
+      "description": "Time to blow up a new nation, concieved in liberty."
+    },
+    "blowup_c": {
+      "id": 17,
+      "typeId": 5,
+      "name": "Trump Towers",
+      "description": "Destroying this nation, conceived in liberty and equality."
+    },
+    "logan": {
+      "id": 18,
+      "typeId": 6,
+      "name": "The Logan",
+      "description": "Mmpp, isn't that a paradox."
+    },
+    "ronnie": {
+      "id": 19,
+      "typeId": 6,
+      "name": "The Ronnie",
+      "description": "Hey, Logan!  Mom's coming!"
+    },
+    "sharon": {
+      "id": 20,
+      "typeId": 6,
+      "name": "The Sharon",
+      "description": "Sharon is back in black!"
+    },
+    "e_teller": {
+      "id": 21,
+      "typeId": 7,
+      "name": "Edward Teller",
+      "description": "Are kids are learning."
+    },
+    "s_ulam": {
+      "id": 22,
+      "typeId": 7,
+      "name": "Stanislaw Ulam",
+      "description": "Make sure when the H-Bomb goes off you are at least 100ft away"
+    },
+    "j_neumann": {
+      "id": 23,
+      "typeId": 7,
+      "name": "John Von Neumann",
+      "description": "Having a manhattan at the Manhattan project. Come join!"
+    },
+    "bolsheviks": {
+      "id": 24,
+      "typeId": 8,
+      "name": "Vladimir Lenin",
+      "description": "Bringing the October Revolution back, y'all"
+    },
+    "georgian": {
+      "id": 25,
+      "typeId": 8,
+      "name": "Georgian",
+      "description": "Georgia... A home away from home."
+    },
+    "ukranian": {
+      "id": 26,
+      "typeId": 8,
+      "name": "Ukranian",
+      "description": "Yo, come over.  We are having a party."
     }
-
   }]
 }
